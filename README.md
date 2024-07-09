@@ -1,3 +1,3 @@
 # SMOOTHIES
 fruits Juices Website
-Author: Ali Sulaiman
+Author: Ali
